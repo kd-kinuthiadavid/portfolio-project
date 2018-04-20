@@ -5,12 +5,12 @@
   font-family: Times, serif;
   font-style: normal;
   font-weight: bold;
-  font-size: 36px;
+  font-size: 50px;
   text-transform: uppercase;
   letter-spacing: 5px;
   word-spacing: 25px;
   text-align: center;
-  color: #1A9504;
+  color: #042D3D;
 }
 .logo img{
   display: block;
@@ -24,8 +24,15 @@
   font-style: normal;
   font-size: 80px;
   text-transform: capitalize;
-  color: #1A9504;
+  color: #042D3D;
   font-weight: bolder;
   float: left;
-
+  word-spacing: 15px;
+  letter-spacing: 2px;
+}
+.about-me{
+  color: #042D3D;
+  float: none;
+  letter-spacing: 1px;
+  word-spacing: 8px;
 }
