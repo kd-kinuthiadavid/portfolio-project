@@ -5,7 +5,7 @@
   font-family: Times, serif;
   font-style: normal;
   font-weight: bold;
-  font-size: 50px;
+  font-size: 20px;
   text-transform: uppercase;
   letter-spacing: 5px;
   word-spacing: 25px;
@@ -32,7 +32,11 @@
 }
 .about-me{
   color: #042D3D;
-  float: none;
+  float: left;
   letter-spacing: 1px;
   word-spacing: 8px;
+}
+.column{
+  width: 350px;
+  float: left;
 }
